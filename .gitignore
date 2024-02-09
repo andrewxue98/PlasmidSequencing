@@ -164,7 +164,6 @@ cython_debug/
 *.jpeg
 *.pdf
 *.ab1
-*.fasta
 
 data/
 output/
